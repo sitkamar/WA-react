@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://media1.tenor.com/images/b6f5f4c80ab457ad8cd67f9de312a2a7/tenor.gif?itemid=17753168");
+    font-family: 'Courier New', monospace;
+    font-weight: 900;
+    text-align: center;
+}
+  
+  img {
+    border-radius: 20%;
+    height: 250px;
+    width: 250px;
+  }
+
+.contactCard {
+    padding: 30px;
+    margin: 12px;
+    width: 420px;
+    display: inline-block;
+    border: 5px solid rgb(109, 0, 91);
+    border-radius: 6%;
+    background-image: url("https://i.pinimg.com/originals/2https://img.redbull.com/images/c_crop,x_794,y_0,h_1384,w_1108/c_fill,w_860,h_1075/q_auto,f_auto/redbullcom/2018/01/02/e730a429-b62d-4688-856e-f945f2b3db46/zoe-league-of-legends-build-guide-artworka/c9/d9/2ac9d9794b441c5b4d3803ffb6a83215.jpg");
+}
+  footer {
+    background: rgb(255, 0, 221);
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    margin-top: 1px;
+    bottom: 0;
+    float: initial;
+  }
+  footer > p {
+    text-align: center;
+  }
+  h1 {
+    font-size: 50px;
+    text-decoration: underline;
+  }
+  
+  header {
+    display: inline-block;
+    font-size: 72px;
+    width: 100%;
+    -webkit-background-clip: text;
+    background-clip: inherit;
+    -webkit-text-fill-color: transparent;
+    background-size: 400% 400%;
+  }

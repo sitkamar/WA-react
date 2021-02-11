@@ -1,0 +1,28 @@
+{
+    "contacts": [
+      {
+        "name": "Zoe Basic",
+        "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+        "email": "ijustwant@todei.cz",
+        "tel": "+420 222 262 028"
+      },
+      {
+        "name": "Cyber Pop Zoe",
+        "img": "https://img.redbull.com/images/c_crop,x_207,y_0,h_1062,w_1593/c_fill,w_1290,h_860/q_auto,f_auto/redbullcom/2018/01/02/c3489806-6ed8-43d2-931a-5a094fd71749/zoe-league-of-legends-build-guide-alternate-skin",
+        "email": "itsmuffintime@ijustwanna.die",
+        "tel": "+420 222 262 040"
+      },
+      {
+        "name": "Pool Party Zoe",
+        "img": "https://lolskinshop.com/wp-content/uploads/2019/11/splash-art-pool-party-zoe.jpg",
+        "email": "soletsdie@together.end",
+        "tel": "+420 220 910 483"
+      },
+      {
+        "name": "Star Guardian Zoe",
+        "img": "https://i0.wp.com/digagami.com/wp-content/uploads/2019/08/Star-Guardian-Zoe.jpg?zoom=2&resize=800%2C400&ssl=1",
+        "email": "andnoonewill@sufferenymore.death",
+        "tel": "+420 222 725 608"
+      }
+    ]
+}
